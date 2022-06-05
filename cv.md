@@ -51,6 +51,6 @@ function my_function(n) {
 - Russian
 - Polish
 ### English 
--  [Mr. English](https://mrenglish.by/)): **Pre-Intermediate** in progress...
+-  [Mr. English](https://mrenglish.by/) **Elementary**, **Pre-Intermediate** in progress...
 <br>
 <br>
